@@ -4,8 +4,6 @@
 
 gradle 빌드 && 티베로 연동 : build.gradle, src/main/resources/application.properties 두개 파일 참조
 
-CORS 정책 위반 해결 정리 : https://evan-moon.github.io/2020/05/21/about-cors/
-
 
 
 # 스프링 정리
@@ -13,6 +11,8 @@ CORS 정책 위반 해결 정리 : https://evan-moon.github.io/2020/05/21/about-
 0. 유용 링크 정리
 
 스프링 어노테이션 정리 : https://velog.io/@gillog/Spring-Annotation-%EC%A0%95%EB%A6%AC
+
+CORS 정책 위반 해결 정리 : https://evan-moon.github.io/2020/05/21/about-cors/
 
 1. 용어 정리
 
